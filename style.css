@@ -1,0 +1,115 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+
+}
+.co{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+     button{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height:24px;
+    text-align: left;
+    background-color: rgb(41, 14, 14);
+    color: #ffffff;
+}
+}
+.lop{
+    justify-self: right;
+}
+
+.main{
+    display: flex;
+}
+.hh{
+    margin-top: 25px;
+}
+
+.for{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lop{
+   text-align:start;
+  
+}
+.mjk{
+    text-align:start;
+    margin-top: 40px;
+    margin-left: 120px;
+     
+}
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.conInside{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    a{
+    text-decoration: none;
+
+    }
+}
+.alt{
+    margin-right: 150px;
+}
+.co{
+    margin-left: 900px;
+}
+.uio{
+    margin-right: 870px;
+    text-align: start;
+   
+}
+.rw{
+    margin-top: 40px;
+    margin-right: 680px;
+}
+.nmi{
+    margin-right: 210px;
+
+}
+.bvn{
+    text-align:start;
+
+}
+.quality{
+    margin-right: 940px;
+}
+.conInside7{
+    display: flex;
+    justify-content: flex-start;
+  
+ 
+}
+.GlobalContainer{
+    display: flex;
+    justify-content: space-around
+}
+.pim{
+    width: 50px;
+    height: 50px;
+}
+.re{
+    width: 50px;
+    height: 50px;
+}
+.hj{
+    width: 50px;
+    height: 50px;
+}
+.post{
+    width: 50px;
+    height: 50px;
+}
